@@ -1,16 +1,16 @@
-## Hi there 👋
+### Hi there 👋 I'm Annie
 
-<!--
-**AnniecTW/AnniecTW** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Incoming MS @ UIUC (MSIM, Class of 2026)**  
+🔍 **Interested in Software Development, Data Analytics**  
+👩🏻‍💻 **Previous Experience: Process Engineer @ TSMC**  
+🌱 **Currently improving my coding skills with LeetCode & side projects**  
+💫 **Building a travel journal platform to enhance my full-stack skills**  
 
-Here are some ideas to get you started:
+### 🔧 Technologies & Tools  
+- **Languages:** Python, Java, JavaScript  
+- **Web Development:** HTML, CSS, Bootstrap, React.js, Node.js, Express.js  
+- **Backend & Tools:** RESTful APIs, MongoDB (learning), Git, GitHub, VS Code, Postman  
+- **Data & ML:** SQL, Pandas, NumPy, Matplotlib, Scikit-learn, TensorFlow, Jupyter Notebook  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌟 Connect with Me  
+🔗 [LinkedIn](https://www.linkedin.com/in/hsin-ya-chien-tw) | 📫 [Ｍy Email](mailto:a0988115306@gmail.com)
