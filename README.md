@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Annie
 
-🎓 **Incoming MS @ UIUC (MSIM, Class of 2026)**  
+🎓 **Incoming MS @ UIUC (MSIM, Class of 2027)**  
 🔍 **Interested in Software Development, Data Analytics**  
 👩🏻‍💻 **Previous Experience: Process Engineer @ TSMC**  
 🌱 **Currently improving my coding skills with LeetCode & side projects**  
