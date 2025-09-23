@@ -9,7 +9,7 @@
 ### 🔧 Technologies & Tools  
 - **Languages:** Python, Java, JavaScript  
 - **Web Development:** HTML, CSS, Bootstrap, React.js, Node.js, Express.js  
-- **Backend & Tools:** RESTful APIs, MongoDB (learning), Git, GitHub, VS Code, Postman  
+- **Backend & Tools:** RESTful APIs, Git, GitHub, VS Code, Postman  
 - **Data & ML:** SQL, Pandas, NumPy, Matplotlib, Scikit-learn, TensorFlow, Jupyter Notebook  
 
 ### 🌟 Connect with Me  
