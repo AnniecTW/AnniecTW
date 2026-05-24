@@ -1,16 +1,17 @@
 ### Hi there 👋 I'm Annie
 
 🎓 **MS @ UIUC (MSIM, Class of 2027)**  
-🔍 **Interested in Software Development, Data Analytics**  
-👩🏻‍💻 **Previous Experience: Process Engineer @ TSMC**  
-🌱 **Currently improving my coding skills with LeetCode & side projects**  
-💫 **Building a travel journal platform to enhance my full-stack skills**  
+💻 **Full-Stack Developer interested in scalable web applications & data-driven systems**  
+👩🏻‍💻 **Former Process Engineer @ TSMC with experience in automation, data analysis, and process optimization**  
+🚀 **Building modern web applications with React, TypeScript, Next.js, and Supabase**  
+🧠 **Interested in system design, real-time collaboration systems, and developer tools**
 
 ### 🔧 Technologies & Tools  
-- **Languages:** Python, Java, JavaScript  
-- **Web Development:** HTML, CSS, Bootstrap, React.js, Node.js, Express.js  
-- **Backend & Tools:** RESTful APIs, Git, GitHub, VS Code, Postman  
-- **Data & ML:** SQL, Pandas, NumPy, Matplotlib, Scikit-learn, TensorFlow, Jupyter Notebook  
+- **Languages:** Python, JavaScript, TypeScript, Java, C/C++  
+- **Frontend:** React.js, Vue.js, Next.js, Tailwind CSS, HTML, CSS  
+- **Backend & Databases:** Node.js, Express.js, REST APIs, PostgreSQL, MySQL, Supabase  
+- **Tools & DevOps:** Git, Docker, Postman  
+- **Data & Simulation:** SQL, NumPy, Pandas, Matplotlib, TensorFlow, Monte Carlo Simulation  
 
 ### 🌟 Connect with Me  
-🔗 [LinkedIn](https://www.linkedin.com/in/hsin-ya-chien-tw) | 📫 [Ｍy Email](mailto:a0988115306@gmail.com)
+🔗 [LinkedIn](https://www.linkedin.com/in/hsin-ya-chien-tw) | 📫 [My Email](mailto:annie1996306@gmail.com)
